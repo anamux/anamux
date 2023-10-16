@@ -1,16 +1,27 @@
-### Hi there 👋
 
-<!--
-**anamux/anamux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Olá! Eu sou a Ana e aqui nesse repositório você vai encontrar projetos desenvolvidos para Android Nativo (Java/Kotlin). Fique a vontade para explorar e se sentir vontade, logo abaixo você encontra meu linkedin.
 
-Here are some ideas to get you started:
+## 💻 Links
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/analidiamuxfeldt/)
+
+## 👩‍💻 Hard Skills
+
+
+![JAVA](https://img.shields.io/badge/Java-red?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/Kotlin-darkblue?style=for-the-badge)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://github.com/anamux)
+![Static Badge](https://img.shields.io/badge/MongoDb-purple?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/SQLite-orange?style=for-the-badge)
+
+
+## 👩‍ Soft Skills
+![Static Badge](https://img.shields.io/badge/TeamWork-yellow?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/Creative_Thinking-green?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/Empathy-lightblue?style=for-the-badge)
+
+
+## 👩‍ Status
+
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=anamux&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF&hide_title=true)
