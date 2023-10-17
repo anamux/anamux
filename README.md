@@ -1,7 +1,10 @@
 
 # Ana Muxfeldt
 
-### Android Native Developer from Florianópolis - SC, Brazil. I'm degree System Analist and Developer and I want to change the world by coding.
+| Android Native Developer from Florianópolis - SC, Brazil. I'm degree System Analist and Developer and I want to change the world by coding. | <img src="el0n_i7df_220224.jpg" alt="Descrição da imagem" width="400"> |
+|----------------|---------------------------------------------------------------------|
+
+
 
 ## 💻 Connect with me:
 
