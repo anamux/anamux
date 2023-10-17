@@ -1,27 +1,20 @@
 
-# Olá! Eu sou a Ana e aqui nesse repositório você vai encontrar projetos desenvolvidos para Android Nativo (Java/Kotlin). Fique a vontade para explorar e se sentir vontade, logo abaixo você encontra meu linkedin.
+# Ana Muxfeldt
 
-## 💻 Links
+### Android Native Developer from Florianópolis - SC, Brazil. I'm degree System Analist and Developer and I want to change the world by coding.
 
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/analidiamuxfeldt/)
-
-## 👩‍💻 Hard Skills
+## 💻 Connect with me:
 
 
-![JAVA](https://img.shields.io/badge/Java-red?style=for-the-badge)
-![Static Badge](https://img.shields.io/badge/Kotlin-darkblue?style=for-the-badge)
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://github.com/anamux)
-![Static Badge](https://img.shields.io/badge/MongoDb-purple?style=for-the-badge)
-![Static Badge](https://img.shields.io/badge/SQLite-orange?style=for-the-badge)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=D77F4E)](https://www.linkedin.com/in/analidiamuxfeldt/)
+
+## 👩‍ GitHub Stats
+
+![AnaMux's's GitHub stats](https://github-readme-stats.vercel.app/api?username=anamux&show_icons=true&theme=gruvbox)
 
 
-## 👩‍ Soft Skills
-![Static Badge](https://img.shields.io/badge/TeamWork-yellow?style=for-the-badge)
-![Static Badge](https://img.shields.io/badge/Creative_Thinking-green?style=for-the-badge)
-![Static Badge](https://img.shields.io/badge/Empathy-lightblue?style=for-the-badge)
-
-
-## 👩‍ Status
-
+## 📚 My top Languages
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=anamux&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF&hide_title=true)
+
+
+
