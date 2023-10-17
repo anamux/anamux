@@ -21,7 +21,8 @@
 
 
 
-GitHub Stats by anuraghazra
+GitHub Stats by [anuraghazra](https://github.com/anuraghazra/github-readme-stats)
+
 Developer vector created by storyset - www.freepik.com (edited by author)
 
 
